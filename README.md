@@ -42,3 +42,6 @@ git reset --soft --mixed e git --hard são comandos que apagam as alterações o
 git reflog - mostra as alterções feitas
 
 Touch adiciona arquivos
+
+
+Estudar branches
